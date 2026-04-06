@@ -51,6 +51,8 @@ https://ai-resume-analyzer-bkqzejw8rurmwgqyir8kuz.streamlit.app/
 ![Graphs](assets/2pic.png)
 ---
 
+Daily improvement by me.
+
 ## ⚡ Installation & Run
 
 ```bash
