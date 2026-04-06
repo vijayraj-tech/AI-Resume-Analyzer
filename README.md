@@ -2,6 +2,10 @@
 
 An intelligent AI-powered Resume Analyzer that evaluates resumes based on job descriptions, providing ATS-style scoring, keyword analysis, and visual insights.
 
+## 🌐 Live Demo
+
+https://ai-resume-analyzer-bkqzejw8rurmwgqyir8kuz.streamlit.app/
+
 ---
 
 ## Features
