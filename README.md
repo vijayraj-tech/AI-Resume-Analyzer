@@ -37,11 +37,9 @@ An intelligent AI-powered Resume Analyzer that evaluates resumes based on job de
 - Scikit-learn 
 
 ---
-![Dashboard](https://raw.githubusercontent.com/vijayraj-tech/AI-Resume-Analyzer/main/assets/1pic.png)
-
-![Analysis](https://raw.githubusercontent.com/vijayraj-tech/AI-Resume-Analyzer/main/assets/2pic.png)
-
-![Graphs](https://raw.githubusercontent.com/vijayraj-tech/AI-Resume-Analyzer/main/assets/3pic.png)
+![Dashboard](assets/1pic.png)
+![Analysis](assets/2pic.png)
+![Graphs](assets/3pic.png)
 ---
 
 ## ⚡ Installation & Run
