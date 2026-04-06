@@ -37,8 +37,13 @@ An intelligent AI-powered Resume Analyzer that evaluates resumes based on job de
 - Scikit-learn 
 
 ---
+###  Dashboard
 ![Dashboard](assets/1pic.png)
+
+###  Resume Analysis
 ![Analysis](assets/2pic.png)
+
+###  Graphs & Insights
 ![Graphs](assets/3pic.png)
 ---
 
