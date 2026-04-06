@@ -3,3 +3,5 @@ pandas
 matplotlib
 PyPDF2
 scikit-learn
+numpy
+plotly
