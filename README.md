@@ -41,10 +41,10 @@ An intelligent AI-powered Resume Analyzer that evaluates resumes based on job de
 ![Dashboard](assets/1pic.png)
 
 ###  Resume Analysis
-![Analysis](assets/2pic.png)
+![Analysis](assets/3pic.png)
 
 ###  Graphs & Insights
-![Graphs](assets/3pic.png)
+![Graphs](assets/2pic.png)
 ---
 
 ## ⚡ Installation & Run
